@@ -23,6 +23,7 @@ public:
         this->data = data;
         this->next = NULL;
     }
+    // update màn hình home
 };
 
 class  School{
