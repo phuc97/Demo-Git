@@ -26,7 +26,7 @@ public:
 };
 
 class  School{
-
+    int count;
 }
 
 //List
