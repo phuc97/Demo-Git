@@ -25,6 +25,10 @@ public:
     }
 };
 
+class  School{
+
+}
+
 //List
 class LinkedList {
     Node *head;
