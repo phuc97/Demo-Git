@@ -27,6 +27,7 @@ public:
 
 class  School{
     int count;
+    int id;
 }
 
 //List
