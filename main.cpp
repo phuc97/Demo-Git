@@ -16,10 +16,12 @@ public:
     Node *next;
     
 public:
+    // feature rút tiền code ở đây nè
     Node() {
         this->next = NULL;
     }
     Node(int data) {
+        // thêm vài dòng xem sao
         this->data = data;
         this->next = NULL;
     }
