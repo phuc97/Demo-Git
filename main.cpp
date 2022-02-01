@@ -24,6 +24,7 @@ public:
         this->next = NULL;
     }
     // update màn hình home
+    // update home 2
 };
 
 class  School{
